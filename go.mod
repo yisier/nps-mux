@@ -1,3 +1,3 @@
-module yisier/nps-mux
+module github.com/yisier/nps-mux
 
-go 1.15
+go 1.17
