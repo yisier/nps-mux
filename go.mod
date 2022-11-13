@@ -1,3 +1,3 @@
-module ehang.io/nps-mux
+module yisier/nps-mux
 
 go 1.15
